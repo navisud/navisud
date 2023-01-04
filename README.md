@@ -7,5 +7,5 @@
 - ✍ In my spare time, I enjoy writing and playing instruments
 
 
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrahamLuccas&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrahamLuccas)](https://github.com/abrahamLuccas/github-readme-stats)
+![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ham-ai&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ham-ai)](https://github.com/ham-ai/github-readme-stats)
