@@ -94,13 +94,13 @@
 <br>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ham-ai/pokedex.git" title="Pokedex"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ham-ai&repo=Pokedex&theme=material-palenight&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ham-ai/responsive-website-aespa" title="website-aespa"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ham-ai&repo=responsive-website-aespa&theme=material-palenight&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ham-ai/pokedex.git" title="pokedex"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ham-ai&repo=Pokedex&theme=material-palenight&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ham-ai/tcc_empregaSenai.git" title="emprega_senai"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ham-ai&repo=tcc_empregaSenai&theme=material-palenight&border_color=61dafb&border_radius=10"></a>
 </div>
 
 <br/><br/><br/><br/><br/><br/>
 
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/ham-ai/collections-java-api-2023.git" title="collections-java-api-2023"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ham-ai&repo=collections-java-api-2023&theme=material-palenight&border_color=61dafb&border_radius=10"></a>
+  <a align="left" href="https://github.com/ham-ai/banco_desafio.git" title="banco app desafio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ham-ai&repo=banco_desafio&theme=material-palenight&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/ham-ai/portfolio" title="portfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ham-ai&repo=portfolio&theme=material-palenight&border_color=61dafb&border_radius=10"></a>
 </div>
 
