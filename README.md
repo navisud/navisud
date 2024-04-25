@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+🌎;I+am+Abraham+Santos...;Nice+to+meet+you!&center=true&size=29&color=dd96f8"> 
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!+🌎;I+am+Abraham+...;Nice+to+meet+you!&center=true&size=29&color=dd96f8"> 
   </a>
 </h1>
 
@@ -82,28 +82,6 @@
 
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ham-ai&theme=material-palenight&bg_color=20232a&hide_border=true" width="100%"/>*-->
 </p>
-
-<hr>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/ham-ai/pokedex.git" title="pokedex"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ham-ai&repo=Pokedex&theme=material-palenight&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/ham-ai/tcc_empregaSenai.git" title="emprega_senai"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ham-ai&repo=tcc_empregaSenai&theme=material-palenight&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<!-- <br/><br/><br/><br/><br/><br/>
-
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/ham-ai/banco_desafio.git" title="banco app desafio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ham-ai&repo=banco_desafio&theme=material-palenight&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/ham-ai/portfolio" title="portfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ham-ai&repo=portfolio&theme=material-palenight&border_color=61dafb&border_radius=10"></a>
-</div>
-
-<br/><br/><br/><br/><br/><br/> -->
-
-<h4 align="center">
-  <a href="https://github.com/ham-ai?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
 
 
 <!--
