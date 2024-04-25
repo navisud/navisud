@@ -17,10 +17,9 @@
 -->
 
   - 💻 I'm passionate with computers, algorithms, design and game development
-  - 🎶 I love kpop, mandopop and deftones
-  - 👔 I’m currently working as IT teacher
+  - 🎶 I love kpop, mandopop and breakbeat
+  - 👔 I’m currently working as english teacher
   - 🌱 Learning Java and Angular
-  - 📫 How to reach me: <a href="mailto: abrahamluccas13@gmail.com">abrahamluccas13@gmail.com</a>
 
 
 <!--
