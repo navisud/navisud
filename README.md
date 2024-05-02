@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=navisud.navisud">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=navisud.id" alt="visitor badge"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
