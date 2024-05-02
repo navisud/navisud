@@ -1,5 +1,5 @@
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ham-ai.ham-ai">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=navisud.navisud">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -64,23 +64,23 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=ham-ai&theme=material-palenight&border=61dafb&hide_border=true" alt="ham-ai" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=navisud&theme=material-palenight&border=61dafb&hide_border=true" alt="navisud" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ham-ai&show_icons=true&theme=material-palenight&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=navisud&show_icons=true&theme=material-palenight&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ham-ai&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=dd96f8&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navisud&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=dd96f8&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
   
   <br><br>
 
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=ham-ai&theme=material-palenight&bg_color=20232a&hide_border=true" width="100%"/>*-->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=navisud&theme=material-palenight&bg_color=20232a&hide_border=true" width="100%"/>*-->
 </p>
 
 
