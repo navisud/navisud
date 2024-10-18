@@ -19,7 +19,7 @@
   - 💻 I'm passionate with computers, electronics, design and game development
   - 🎶 I love kpop, mandopop and breakbeat
   - 👔 I’m currently working as english teacher
-  - 🌱 Learning Java and Angular
+  - 🌱 Learning Java and Godot
 
 
 <!--
